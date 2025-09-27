@@ -238,21 +238,23 @@ This course is designed for **absolute beginners** and focuses on learning Pytho
         <td align="center"><b>Day 15</b></br>24-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/19ayaJSn5z/">HashMap</td>
         <td align="center"><a href=""><br/></td>
-        <td align="center"><br/><br/><br/><br/><br/><br/></td>
+        <td align="center">Hasmap<br/><br/><br/><br/><br/><br/></td>
         <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
     </tr>
         <td align="center"><b>Day 16</b></br>25-Sep-2025</td>
         <td align="center"><a href="https://www.facebook.com/share/v/1ao3Ej34xQ/">Queue</td>
         <td align="center"><a href=""><br/></td>
-        <td align="center"><br/><br/><br/><br/><br/><br/></td>
+        <td align="center">queue<br/><br/><br/><br/><br/><br/></td>
         <td align="center"><a href="https://www.linkedin.com/in/ahmad-raza-jajja-277456373/">Ahmad Raza Jajja</td>
     </tr>
     <tr>
         <td align="center"><b>Day 17</b></br>26-Sep-2025</td>
-        <td align="center"><a href=""></td>
-        <td align="center"><a href=""><br/></td>
-        <td align="center"><br/><br/><br/><br/><br/><br/></td>
-        <td align="center"><a href=""></td>
+        <td align="center"><a href="https://www.facebook.com/share/v/1BfHCQ3XZC/">Trees</td>
+        <td align="center"><a href="https://colab.research.google.com/drive/1Iy8Fghq6oed642855MyTqi8J8c-jxVLC?usp=sharing">Practice file<br/>
+        <a href="https://leetcode.com/problems/invert-binary-tree/">Problem 226
+        </td>
+        <td align="center">Introduction<br/>Binary Trees<br/>Root Node<br/>Parent Node<br/>Child Node<br/>Leaf Node<br/>Internal Node<br/>Height of a tree<br/>Depth of a node<br/>level of a node</td>
+        <td align="center"><a href="https://www.linkedin.com/in/hasnain-ahmad-047210349/">Hasnain Ahmad</td>
     </tr>
 </tbody>
 <table>
